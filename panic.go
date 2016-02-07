@@ -7,7 +7,7 @@ import "os"
 
 func main() {
   // use panic to check for unexpected errors
-  panic("a problem")
+  panic("There is a problem!")
   
   // common use of panic is to abort if a function
   // returns an error value that we don't know
